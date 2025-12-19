@@ -1,0 +1,8 @@
+git status
+git add
+git commit -m "Describe the change clearly"
+git remote add origin https://github.com/samyuktha-sundar/sammmm.git
+git push origin main
+git log
+
+git pull origin main
